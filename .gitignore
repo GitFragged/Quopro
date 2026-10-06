@@ -1,0 +1,8 @@
+# Only these reviewed public documents may be committed.
+# Executables belong in reviewed GitHub Release assets, never Git history.
+*
+!/.gitignore
+!/README.md
+!/SECURITY.md
+!/release-notes/
+!/release-notes/v1.3.5.md
